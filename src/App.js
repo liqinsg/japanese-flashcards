@@ -163,6 +163,24 @@ const AnkiFlashcards = () => {
       back: "Take care of yourself",
       context: "To someone ill or injured",
       emoji: "🏥"
+    },
+    {
+      front: "ありがとう",
+      back: "Thank you",
+      context: "Casual, informal thanks",
+      emoji: "😊"
+    },
+    {
+      front: "ごめんなさい",
+      back: "I'm sorry",
+      context: "Sincere apology",
+      emoji: "🙏"
+    },
+    {
+      front: "わかりました",
+      back: "I understand",
+      context: "Acknowledgment",
+      emoji: "✅"
     }
   ];
 
