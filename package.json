@@ -2,6 +2,9 @@
   "homepage": "https://liqinsg.github.io/japanese-flashcards",
   "name": "japanese-flashcards",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.17",
